@@ -1,2 +1,3 @@
 # Prak-OOP
-Latihan prak OOP
+pucuk ubi pucuk kangkung banyak bunyi pecah muncung
+belajar mengkoding
